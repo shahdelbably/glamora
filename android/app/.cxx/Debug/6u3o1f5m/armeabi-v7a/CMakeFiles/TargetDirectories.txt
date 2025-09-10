@@ -1,0 +1,2 @@
+C:/Users/DELL/OneDrive/Documents/StoredPowredAi-EditPantsImage/android/app/.cxx/Debug/6u3o1f5m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/OneDrive/Documents/StoredPowredAi-EditPantsImage/android/app/.cxx/Debug/6u3o1f5m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

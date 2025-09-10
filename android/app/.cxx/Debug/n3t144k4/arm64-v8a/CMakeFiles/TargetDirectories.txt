@@ -1,0 +1,2 @@
+C:/Users/ef/Downloads/StoredPowredAi-addtocart (1)/StoredPowredAi-addtocart/android/app/.cxx/Debug/n3t144k4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ef/Downloads/StoredPowredAi-addtocart (1)/StoredPowredAi-addtocart/android/app/.cxx/Debug/n3t144k4/arm64-v8a/CMakeFiles/rebuild_cache.dir

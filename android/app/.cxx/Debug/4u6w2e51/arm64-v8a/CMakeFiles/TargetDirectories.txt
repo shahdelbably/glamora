@@ -1,0 +1,2 @@
+C:/Users/ef/Downloads/StoredPowredAi-afterRating/android/app/.cxx/Debug/4u6w2e51/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ef/Downloads/StoredPowredAi-afterRating/android/app/.cxx/Debug/4u6w2e51/arm64-v8a/CMakeFiles/rebuild_cache.dir

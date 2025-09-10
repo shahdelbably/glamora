@@ -1,0 +1,2 @@
+C:/Users/DELL/Downloads/StoredPowredAi-finishUserDataMethods/StoredPowredAi-finishUserDataMethods/android/app/.cxx/Debug/524v5y1s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/StoredPowredAi-finishUserDataMethods/StoredPowredAi-finishUserDataMethods/android/app/.cxx/Debug/524v5y1s/armeabi-v7a/CMakeFiles/rebuild_cache.dir

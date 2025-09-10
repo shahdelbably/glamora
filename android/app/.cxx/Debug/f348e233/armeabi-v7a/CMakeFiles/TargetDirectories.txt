@@ -1,0 +1,2 @@
+C:/Users/ef/Downloads/StoredPowredAi-authWithBackend/android/app/.cxx/Debug/f348e233/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ef/Downloads/StoredPowredAi-authWithBackend/android/app/.cxx/Debug/f348e233/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/ef/Downloads/StoredPowredAi-cartEditing/android/app/.cxx/Debug/493u5w57/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ef/Downloads/StoredPowredAi-cartEditing/android/app/.cxx/Debug/493u5w57/x86_64/CMakeFiles/rebuild_cache.dir
